@@ -1,6 +1,6 @@
 {
   "posts": [
-    { "id": 1, "title": "Post 1" },
+    { "id": 1, "label": 7200033017, "company": "ООО \"КАМЕННЫЙ СКЛАД\"", "ogrn": 1227200016493, "director": "Скребец Дмитрий Анатольевич", "status": true },
     { "id": 2, "title": "Post 2" },
     { "id": 3, "title": "Post 3" }
   ]

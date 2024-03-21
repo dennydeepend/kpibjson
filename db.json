@@ -2,6 +2,6 @@
   "companys": [
   {"id": 0, "title": "hello1"},
   {"id": 1, "title": "hello2"},
-  {"id": 2, "title": "hello3"},
-  ],
+  {"id": 2, "title": "hello3"}
+  ]
 }

@@ -1,28 +1,11 @@
 {
-  "companys": [
-            {
-                id: 1,
-                label: 7200033017,
-                company: "ООО \"КАМЕННЫЙ СКЛАД\"",
-                ogrn: 1227200016493,
-                director: "Скребец Дмитрий Анатольевич",
-                status: true,
-            },
-            {
-                id: 2,
-                label: 7714863750,
-                company: "ООО \"ЦВЕТКОФФ\"",
-                ogrn: 1127746072717,
-                director: "Альмяшева Лола Ералиевна",
-                status: true,
-            },
-            {
-                id: 3,
-                label: 7200017999,
-                company: "ООО \"ЛЕРУА\"",
-                ogrn: 1095074009414,
-                director: "Вирфель Жанна Станиславовна",
-                status: false,
-            }
-              ]
+  "posts": [
+    {
+      "id": 1,
+      "title": "hello"
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
 }
